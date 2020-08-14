@@ -1,0 +1,12 @@
+[submodule "tof_readout"]
+	path = tof_readout
+	url = https://github.com/helix-osu-firmware/tof_readout
+[submodule "helix-mtrig"]
+	path = helix-mtrig
+	url = https://github.com/helix-osu-firmware/firmware-helix-mtrig
+[submodule "helix-mmerger"]
+	path = helix-mmerger
+	url = https://github.com/helix-project/helix-mmerger
+[submodule "helix_firmware"]
+	path = helix_firmware
+	url = https://github.com/helix-project/helix_firmware
